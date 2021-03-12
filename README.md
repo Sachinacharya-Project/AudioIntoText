@@ -11,11 +11,19 @@ other file-type. And Converision process is not yet reliable.
 ````python
 pip install SpeechRecognition
 pip install pydub
+"""
+For Unix
+pip == pip3
+"""
 ````
 ## USAGE
-````
+````python
 python "audio to text.py"
 Enter AudioFile Name: your_audio_name
+"""
+For Unix
+python == python3
+"""
 DONE! DONE! DONE!
 ````
 ## REMARKS
